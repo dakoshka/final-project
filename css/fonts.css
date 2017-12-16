@@ -1,0 +1,53 @@
+
+@font-face {
+    font-family: 'BPGGlaho';
+    src: url('BPGGlaho.eot?#iefix') format('embedded-opentype'), 
+    url('BPGGlaho.woff') format('woff'),
+    url('BPGGlaho.ttf')  format('truetype'),
+    url('BPGGlaho.svg#BPGGlaho') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+  @font-face {
+    font-family: 'BPGUcnobi';
+    src: url('BPGUcnobi.eot?#iefix') format('embedded-opentype'),  
+    url('BPGUcnobi.woff') format('woff'), url('BPGUcnobi.ttf')  format('truetype'), 
+    url('BPGUcnobi.svg#BPGUcnobi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'BPGNinoMkhedruli';
+    src: url('BPGNinoMkhedruli.eot?#iefix') format('embedded-opentype'), 
+     url('BPGNinoMkhedruli.otf')  format('opentype'),
+     url('BPGNinoMkhedruli.woff') format('woff'),
+     url('BPGNinoMkhedruli.ttf')  format('truetype'), 
+     url('BPGNinoMkhedruli.svg#BPGNinoMkhedruli') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+  @font-face {
+    font-family: 'BPGIngiriArial';
+    src: url('../fonts/ingiri-arial/BPGIngiriArial.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ingiri-arial/BPGIngiriArial.woff') format('woff'), 
+    url('../fonts/ingiri-arial/BPGIngiriArial.ttf')  format('truetype'),
+    url('../fonts/ingiri-arial/BPGIngiriArial.svg#BPGIngiriArial') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'BPGNinoMtavruli-Bold';
+    src: url('../fonts/nino-mtavruli/BPGNinoMtavruli-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/nino-mtavruli/BPGNinoMtavruli-Bold.woff') format('woff'),
+    url('../fonts/nino-mtavruli/BPGNinoMtavruli-Bold.ttf')  format('truetype'),
+    url('../fonts/nino-mtavruli/BPGNinoMtavruli-Bold.svg#BPGNinoMtavruli-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  

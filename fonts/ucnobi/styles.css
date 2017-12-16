@@ -1,0 +1,9 @@
+
+@font-face {
+  font-family: 'BPGUcnobi';
+  src: url('BPGUcnobi.eot?#iefix') format('embedded-opentype'),  
+  url('BPGUcnobi.woff') format('woff'), url('BPGUcnobi.ttf')  format('truetype'), 
+  url('BPGUcnobi.svg#BPGUcnobi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

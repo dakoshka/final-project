@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'BPGNinoMkhedruli';
+  src: url('BPGNinoMkhedruli.eot?#iefix') format('embedded-opentype'), 
+   url('BPGNinoMkhedruli.otf')  format('opentype'),
+       url('BPGNinoMkhedruli.woff') format('woff'),
+        url('BPGNinoMkhedruli.ttf')  format('truetype'), 
+        url('BPGNinoMkhedruli.svg#BPGNinoMkhedruli') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
